@@ -1,2 +1,2 @@
 # Games
-Java based game projects
+# Simple Java based game projects
